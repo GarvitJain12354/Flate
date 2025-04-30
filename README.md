@@ -1,4 +1,4 @@
-# 🏠 StayMate - Your Flatmate & Rental Finder App
+# 🏠 FaltFinder - Your Flatmate & Rental Finder App
 
 StayMate is a full-stack MERN web application that helps users find suitable roommates, PGs, and flats in metro cities. Inspired by platforms like Flatemate.in, it offers features such as OTP-based login/signup, listing creation, and a dedicated admin panel to manage users and listings.
 
@@ -60,5 +60,5 @@ StayMate is a full-stack MERN web application that helps users find suitable roo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/staymate.git
+git clonehttps://github.com/GarvitJain12354/Flate
 cd staymate
